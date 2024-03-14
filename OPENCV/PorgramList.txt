@@ -1,0 +1,21 @@
+3.read & display image				DONE
+4.read & display image(PNG,GIF,TIFF formats)	DONE
+5.Displaying image properties			DONE
+6.Greyscale conversion				DONE
+7.HSV conversion				DONE
+8.Roation of an image				DONE
+9.Resizing of an image				DONE
+10.Translation & scaling of an image		DONE
+11.Circle,Rectangle,Square			DONE
+12.Human face					DONE
+13.Robot diagram				DONE
+14.Edge detection				DONE
+19.Facial Landmark detection			DONE
+
+
+15.Text detection
+16.Text detection and classification
+
+
+17.OCR optical character recognintion[Pytesseract Problem]
+18.Image classfication[Need a strong GPU]
